@@ -1,7 +1,3 @@
-Certainly! Here’s a more engaging and visually appealing GitHub profile:
-
----
-
 ## 👋 Hi there, I'm Bhavik Charola!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavik66&style=flat-square&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/bhavik66?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/bhavikcharola?style=social)
@@ -44,36 +40,6 @@ I’m a **Senior Full-Stack Developer** and **Technical Lead** with a passion fo
 #### **Database**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 💼 Professional Experience
-
-#### **Paytm Insurance Broking Private Limited** | Technical Lead
-*October 2023 - Present*
-- Leading the development of Paytm's insurance platform using **Next.js**.
-- Architected the **Backend for Frontend (BFF)** using **Nest.js**.
-- Created reusable components with **React.js** and **Storybook**.
-- Mentoring junior developers and promoting a collaborative environment.
-
-#### **VectoScalar Technologies Private Limited** | Senior Software Engineer
-*March 2019 - May 2023*
-- Unified mobile and web apps using **React Native** and **react-native-web**.
-- Developed native modules and exclusive NPM packages.
-- Implemented **monorepo** and optimized development with **Vite.js**.
-
-#### **Ventive LLP** | Senior Frontend Engineer (Part-Time)
-*June 2020 - July 2021*
-- Setup MVP projects with **React Native** and **React.js**.
-- Developed reusable UI components and participated in code reviews.
-
-#### **CODEO LTD** | React Native Developer
-*March 2017 - Jan 2019*
-- Developed features for **ClockIT** and published apps on Google Play and Apple App Store.
-
-#### **BinBytes** | Android Developer
-*April 2015 - Jan 2017*
-- Developed robust applications for media downloading from YouTube, Facebook, and Instagram.
 
 ---
 
