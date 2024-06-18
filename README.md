@@ -45,10 +45,10 @@ I’m a **Senior Full-Stack Developer** and **Technical Lead** with a passion fo
 
 ### 🌟 Featured Projects
 
-- **[Code99.IO](https://code99.io/)**: Comprehensive codebase management tool.
-- **[SIMSIM](https://play.google.com/store/apps/details?id=live.video.shopping.simsim)**: Unified mobile and web app platform.
-- **[SuitePeach](https://www.suitepeach.com/)**: Integrated suite of productivity tools.
-- **[React Native Firebase Chat](https://github.com/bhavik66/react-native-firebase-chat)**: Chat application using React Native and Firebase.
+- **[Code99.IO](https://code99.io/)**: AI based code generator built using React.js and Nest.js.
+- **[SIMSIM](https://play.google.com/store/apps/details?id=live.video.shopping.simsim)**: E-commerce application built using React Native and react-native-web.
+- **[SuitePeach](https://www.suitepeach.com/)**: Dance Studio management platform built using React.js and React Native.
+- **[React Native Firebase Chat](https://github.com/bhavik66/react-native-firebase-chat)**: Chat application built using React Native and Firebase.
 
 ---
 
