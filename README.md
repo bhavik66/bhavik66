@@ -59,13 +59,4 @@ I’m a **Senior Full-Stack Developer** and **Technical Lead** with a passion fo
 
 ---
 
-### 🔗 Connect with Me
-
-- Personal Website: [iambhavik.com](https://iambhavik.com)
-- GitHub: [bhavik66](https://github.com/bhavik66)
-- LinkedIn: [bhavik-charola](https://www.linkedin.com/in/bhavik-charola)
-- Twitter: [@bhavikcharola](https://x.com/bhavikcharola)
-
----
-
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects! 🚀
